@@ -1,0 +1,15 @@
+{
+  "name": "webpack-import",
+  "version": "1.0.1",
+  "description": "Webpack Import",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Webpack",
+    "Import"
+  ],
+  "author": "joenix",
+  "license": "MIT"
+}
